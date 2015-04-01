@@ -1,6 +1,6 @@
 <repository>
     <id>madeye-maven-repository</id>
-    <url>https://github.com/madeye/maven-repository/raw/master</url>
+    <url>https://github.com/i5ting/maven-repository/raw/master</url>
     <releases>
         <enabled>true</enabled>
     </releases>
